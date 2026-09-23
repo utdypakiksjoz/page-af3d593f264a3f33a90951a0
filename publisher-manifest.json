@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "03777f72bd65f4487444e65c",
+  "owner": "utdypakiksjoz",
+  "repo": "page-af3d593f264a3f33a90951a0",
+  "title": "feixda",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "af3d593f264a3f33a90951a0",
+      "a": "feixda",
+      "b": "2027官方最新地址导航",
+      "entity": "feixda",
+      "brand": "feixda",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "9788ff0a28fff35dbdfbfaa33c89449618c68cdae79aa7b0b287611fe66fd8e7",
+      "content": {
+        "primary_entity": "feixda",
+        "keyword1": "feixda",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要海外网络加速的国内用户，主打多平台订阅与灵活套餐。基础版每月15元提供100GB流量，旗舰版每月35元提供300GB并支持5台设备，团队版每月85元提供1000GB流量与20台设备额度，按年付分别只需150元、350元与850元。客户端覆盖主流桌面与移动系统，可按设备类型选择对应订阅配置，结合自身流量与设备数量在套餐之间做取舍。",
+          "AI_HERO_SUBTITLE": "多设备海外加速订阅",
+          "AI_HERO_INTRO": "feixda 提供不同流量档位的海外加速订阅，适合根据设备数量与使用强度灵活选择。基础、旗舰与团队三档套餐覆盖个人到小团队场景，按年付能进一步降低月均成本。",
+          "AI_VISUAL_TITLE": "选对加速订阅套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按月或按年灵活订阅",
+          "AI_HIGHLIGHT_2": "旗舰版支持5台设备同时在线",
+          "AI_HIGHLIGHT_3": "团队版每月1000GB流量额度",
+          "AI_FEATURES_TITLE": "订阅要点",
+          "AI_FEATURES_INTRO": "从流量、设备数与订阅周期三个维度判断哪一档更适合自己。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "每月100GB适合轻度使用，300GB适合日常追剧与浏览，1000GB适合多设备并发。",
+          "AI_FEATURE_TITLE_2": "按设备数量选档",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，按家庭成员或同事人数匹配。",
+          "AI_FEATURE_TITLE_3": "按周期与线路选",
+          "AI_FEATURE_TEXT_3": "按年付分别只需150元、350元和850元，旗舰版与团队版提供更高带宽的节点池。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLIENTS_INTRO": "桌面系统、移动系统与路由器各有对应客户端，按设备类型选择后再导入订阅。",
+          "AI_GUIDE_TITLE": "三步开始使用",
+          "AI_GUIDE_INTRO": "从确认设备数量到导入订阅，三个步骤完成基础配置。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "统计常用设备数量与每月流量需求，在基础、旗舰与团队版之间确定一档。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "核对设备系统版本与客户端支持情况，确认所选的设备类型能够正常安装。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依照对应客户端的说明导入订阅信息，完成连接配置后即可在多台设备上使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "三档套餐在流量、设备数与节点上逐级提升，可按预算与使用场景对照选择。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选好套餐再订阅",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求确定档位后，按年付可以进一步降低月均支出。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "feixda 三档套餐主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备，适合个人轻量使用；旗舰版每月 300GB、5 台设备并含 IPLC 专线，适合流媒体与游戏；团队版每月 1000GB、20 台设备，适合小团队多终端。",
+          "AI_FAQ_QUESTION_2": "实际设备数量超过套餐上限会怎样？",
+          "AI_FAQ_ANSWER_2": "同时在线设备数按套餐标注执行，超出上限时新设备可能无法连接。可以先统计日常需要同时在线的手机、电脑和平板数量，再选择对应档位。",
+          "AI_FAQ_QUESTION_3": "月付与年付如何选择？",
+          "AI_FAQ_ANSWER_3": "月付适合短期试用和需求不固定的情况，年付折算下来单价更低。基础版年付 ¥150，旗舰版 ¥350，团队版 ¥850，可先按月体验再决定是否转年付。",
+          "AI_FAQ_QUESTION_4": "订阅导入失败时先检查什么？",
+          "AI_FAQ_ANSWER_4": "先确认客户端与系统版本符合文档要求，再核对订阅地址是否完整复制、前后有无多余空格。部分客户端需要关闭再重新打开以刷新配置。",
+          "AI_FAQ_QUESTION_5": "游戏场景更适合哪一档？",
+          "AI_FAQ_ANSWER_5": "旗舰版包含 IPLC 专线游戏加速优化，对延迟敏感的游戏体验更友好；团队版提供 VIP 专属高带宽节点，适合多人同时游戏或直播推流。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--4gq62f52g11enrrj87a.com",
+    "host": "xn--4gq62f52g11enrrj87a.com"
+  },
+  "file_hashes": {
+    "index.html": "3b68b3fb622e4c20b7695917961acf4710cdb455e4043b0c36215f3c5324adf7",
+    "sitemap.xml": "2102abdec51861b0b2c7e6ceeb59e036bcefb5737d170c0b62c7ef76bcb0b983",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "e8725027781849d55ce37963bc908308e203b388ee33589bd324723f1b81cb1f",
+    "robots.txt": "9cb8a66aedf65ebe917294a1616bfed1f9d695fe42560214da873f1534a85493",
+    "ffd7e579fb7955b86147eccbabc04dc4.txt": "c878fc28538094be53fcca9e020556acd558e09614f5343d707657308c8159b5"
+  },
+  "revision": "e8992dc91595eccadffc5e8f8c4ff3799cf86ca5052f1085c539e9eebf557d23"
+}
